@@ -61,18 +61,6 @@ Soy un desarrollador apasionado por la tecnología y la programación. Me encant
   - Manejo de Usuarios
   - BDD MySQL
 
- ### [Login con 2FA (Preguntas)](https://github.com/MPVdev/Doble-Factor-Preguntas)
-
-![img del proyecto](/assets/projects/Doble%20Factor/login.png)
-
-**Descripción**: Login realizado como practica para probar el doble factor como metodo de seguridad (Ejercicio).
-- **Tecnologías usadas**: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white), ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black), ![PHP](https://img.shields.io/badge/-PHP-0066FF?style=flat&logo=php&logoColor=white), ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white).
-- **Características clave**:
-  - 2FA
-  - Arquitectura MVC
-  - Comunicación frontend y backend
-  - BDD MySQL
-
   ### [Sistema de Riego](https://github.com/MPVdev/IoT)
 
 ![img del proyecto](/assets/projects/Sistema%20de%20Riego/tabla.png)
@@ -113,13 +101,12 @@ Soy un desarrollador apasionado por la tecnología y la programación. Me encant
 
 # 📈 Estadísticas de GitHub
 
-![stats](https://github-readme-stats.vercel.app/api?username=MPVdev&show_icons=true&theme=dark&locale=es)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MPVdev&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=10&hide=scss,less,hack)
+![stats](https://github-readme-stats.vercel.app/api?username=PaulDiaz054&show_icons=true&theme=dark&locale=es)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulDiaz054&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=10&hide=scss,less,hack)
 # 📫 Contacto
 
 - **Correo**: [pd1004405054@gmail.com](mailto:pd1004405054@gmail.com)
 - **LinkedIn**: [Paul Diaz](https://www.linkedin.com/in/mpv-dev/)
-- **freeCodeCamp**: [Paul Diaz](https://www.freecodecamp.org/MPV-dev)
 
 ---
 
